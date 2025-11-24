@@ -1,0 +1,10 @@
+jupyter notebook
+
+** 형상관리 관련
+
+참고 사이트 : 
+소스 트리 설치  https://saakmiso.tistory.com/15
+소스트리 연결 https://saakmiso.tistory.com/126
+소스트리 사용법 https://chobyeonggyu03.tistory.com/70
+
+원격저장소 https://github.com/KimDongUg/korea_IT
